@@ -11,7 +11,7 @@ This is a skeleton application written in Ruby and using the Express NodeJS fram
 
 This bare-bones application will bootstrap your application development by providing a pre-configured simple application with:
 
-* A bare-bones express application
+* A bare-bones Express application
 * Bootstrap styling
 * The stsplatform module
 
