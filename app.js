@@ -44,7 +44,7 @@ function sts_data_resource(req){
       }
     }
   );
-  sensor = new sts.Sensors(client,req.cookies.sensor_name);
+  var sensor = new sts.Sensors(client,req.cookies.sensor_name);
   return new sts.Data(sensor);
 }
 
