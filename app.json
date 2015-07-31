@@ -1,0 +1,6 @@
+{
+  "name": "stsplatform-skeleton-express",
+  "description": "An Express skeleton app using the STS Platform",
+  "repository": "https://github.com/SenseTecnic/stsplatform-skeleton-app-express",
+  "keywords": ["nodejs", "express", "stsplatform"]
+}
