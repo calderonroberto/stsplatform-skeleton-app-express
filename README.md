@@ -1,7 +1,7 @@
 A Skeleton Express and STS Platform App
 =======================================
 
-This is a skeleton application written in Ruby and using the Express NodeJS framework.
+This is a skeleton application written in NodeJS and using the [Express 4](http://expressjs.com/) framework.
 
 ## Quick Deploy on Heroku:
 
